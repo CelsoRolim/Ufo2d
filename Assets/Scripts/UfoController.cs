@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class UfoMovement : MonoBehaviour {
+public class UfoController : MonoBehaviour {
 
 	public float forceMultiplier;
 	private Rigidbody2D ufoRigidBody;
